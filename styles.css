@@ -79,7 +79,7 @@ header {
 nav {
     position: fixed;
     left: 5%;
-    top: 60%;
+    top: 65%;
     transform: translateY(-50%);
     background: rgba(0, 0, 0, 0.8);
     padding: 20px 10px;
